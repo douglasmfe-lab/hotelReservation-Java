@@ -9,5 +9,5 @@
 
 `2) **Solução ruim:** Utilizando método retornando uma String, solução comum em linguagens antigas como o C#.`
 
-
+`3) Solução boa - Com tratamento de exceções, no método e no construtor da classe.`
 
